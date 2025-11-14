@@ -1,0 +1,51 @@
+order_id,user_id,order_date,status,shipping_address,total_amount
+1,35,2025-11-14T13:21:05,processing,"339 Alicia Pines Suite 191, Port Amyhaven, ID 75566",841.02
+2,11,2025-11-14T13:20:29,delivered,"713 Davis Pass Suite 072, Bryantton, OH 61105",140.78
+3,25,2025-11-14T13:21:39,shipped,"4039 Brandon Key, New Virginialand, NJ 04660",703.9
+4,41,2025-11-14T13:18:21,cancelled,"656 Kane Lane, Millerside, DC 86161",374.6
+5,15,2025-11-14T13:18:53,shipped,"230 Tiffany Mountain Suite 863, South Michael, KY 25205",262.36
+6,50,2025-11-14T13:16:52,pending,"033 Craig Bypass Suite 903, South Scottside, IL 99379",704.15
+7,15,2025-11-14T13:16:23,pending,"95995 Kevin Divide Apt. 644, New Stacyburgh, SC 89466",990.34
+8,21,2025-11-14T13:19:33,delivered,"6856 Hernandez Lane, Port Amanda, IA 30037",244.96
+9,18,2025-11-14T13:18:28,pending,"0866 Paul Glens, West Deborah, NV 49138",960.84
+10,14,2025-11-14T13:16:42,cancelled,"46990 Jacob Trace, South Jason, PW 44143",1451.9
+11,46,2025-11-14T13:18:30,shipped,"USS Lewis, FPO AE 97687",1345.28
+12,14,2025-11-14T13:16:55,delivered,"93638 Rowe Light Suite 854, Michaelfort, NH 13425",1203.4
+13,26,2025-11-14T13:19:55,delivered,"55609 Joyce Brook Suite 899, Phillipsborough, MA 30650",664.74
+14,10,2025-11-14T13:19:09,shipped,"8547 Murray Street, Garyside, NM 24624",1018.38
+15,9,2025-11-14T13:20:32,processing,"Unit 0801 Box 0062, DPO AP 30835",92.55
+16,48,2025-11-14T13:16:29,cancelled,"87509 Hopkins Brook, New Andreatown, AK 69892",2401.0
+17,35,2025-11-14T13:18:15,shipped,"86211 John River Suite 546, West Susanmouth, OK 32378",480.2
+18,48,2025-11-14T13:21:51,cancelled,"016 Bennett Mountains, Lake Albertburgh, CO 66018",281.56
+19,28,2025-11-14T13:19:37,cancelled,"180 Jason Ways Suite 401, Rachelshire, TN 04813",422.49
+20,26,2025-11-14T13:17:26,shipped,"USNV Smith, FPO AE 77444",793.0
+21,15,2025-11-14T13:17:08,processing,"42939 Rhodes Plains Suite 621, Brianchester, IN 10464",960.84
+22,33,2025-11-14T13:18:49,delivered,"0477 Michael Lane Suite 296, Port Christinebury, VT 10135",206.28
+23,6,2025-11-14T13:16:37,pending,"265 Rodriguez Avenue Suite 754, East Christopherchester, NV 73506",264.65
+24,8,2025-11-14T13:20:39,processing,"15819 Shields Bridge, Robertland, VA 73840",339.46
+25,41,2025-11-14T13:17:59,processing,"622 Turner Park, North Gary, KY 55695",400.92
+26,44,2025-11-14T13:18:28,delivered,"4379 Stephen Dale, Adamfurt, MA 81790",184.59
+27,39,2025-11-14T13:19:09,pending,"5692 Flores Square Apt. 752, Novakport, WA 91590",704.15
+28,25,2025-11-14T13:21:19,delivered,"6465 Sarah Flats, Lake Katrina, AK 95818",422.34
+29,39,2025-11-14T13:19:51,delivered,"USNS Gonzales, FPO AA 91312",306.44
+30,34,2025-11-14T13:16:30,shipped,"724 Johnny Drives Suite 617, Aguilarside, NY 91164",1203.4
+31,36,2025-11-14T13:19:29,pending,"891 Kayla Shoals Suite 290, Rasmussenmouth, WY 56921",306.2
+32,44,2025-11-14T13:16:49,pending,"88899 Sean Lock Suite 982, Whitneyfort, CT 39223",1094.52
+33,44,2025-11-14T13:19:27,cancelled,"PSC 1125, Box 4573, APO AP 63799",563.12
+34,49,2025-11-14T13:18:53,shipped,"751 Williams Station Apt. 051, Lake John, HI 72840",62.24
+35,50,2025-11-14T13:17:16,shipped,"3622 Foster Street Apt. 796, Smithborough, IL 36984",327.92
+36,8,2025-11-14T13:21:55,shipped,"182 Nguyen Mount, West Emilyfort, NC 84270",306.44
+37,28,2025-11-14T13:18:35,processing,"155 Williamson Via Suite 991, West David, ME 15829",547.8
+38,30,2025-11-14T13:17:28,pending,"669 Bailey Manors, South Cynthia, UT 85076",124.48
+39,47,2025-11-14T13:17:23,shipped,"2257 Michelle Branch Suite 236, Ortizfort, MT 93580",65.59
+40,33,2025-11-14T13:19:42,processing,"034 Joshua Plain, Garymouth, OK 97824",201.3
+41,33,2025-11-14T13:20:08,pending,"148 Weaver Throughway, Port Jenniferside, IL 56226",1507.52
+42,41,2025-11-14T13:16:47,shipped,"0745 Scott Crest, East Lisa, OR 90827",196.77
+43,41,2025-11-14T13:18:54,cancelled,"92330 Patel Ranch Apt. 544, Stephaniehaven, MH 89538",655.84
+44,39,2025-11-14T13:16:43,processing,"42232 Poole Trace Suite 729, Courtneyfurt, NV 10399",689.22
+45,10,2025-11-14T13:21:19,shipped,"8457 Murphy Alley, Lake Teresastad, PR 08801",96.4
+46,49,2025-11-14T13:20:28,processing,"74545 Ashlee Oval Suite 001, Smithburgh, NV 60337",244.96
+47,35,2025-11-14T13:15:55,cancelled,"Unit 6324 Box 2415, DPO AA 11304",1098.51
+48,1,2025-11-14T13:19:05,cancelled,"64361 Aaron Neck, East Brittneyhaven, TX 58836",676.5
+49,21,2025-11-14T13:15:59,delivered,"62713 Davis Valley Apt. 155, Derrickberg, SD 89254",563.32
+50,2,2025-11-14T13:17:08,pending,"275 Courtney Drive, Jensenmouth, VI 28975",480.42
